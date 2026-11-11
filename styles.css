@@ -1,0 +1,22 @@
+/* Estilos principales de la página */
+body {
+    background-color: #1e1e2e; /* Color de fondo oscuro */
+    color: #ffffff;            /* Color del texto en blanco */
+    font-family: 'Arial', sans-serif; /* Tipo de letra */
+    padding: 40px;
+    text-align: center;
+}
+
+/* Estilo para el título */
+h1 {
+    color: #4ea8de;
+    font-size: 2.5rem;
+}
+
+/* Estilo para el párrafo */
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 20px auto;
+}
